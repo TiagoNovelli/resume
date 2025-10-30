@@ -109,5 +109,3 @@ Atenciosamente,
 Analista de Dados Pleno
 
 ---
-
-*Currículo completo e portfólio de projetos disponíveis mediante solicitação.*
