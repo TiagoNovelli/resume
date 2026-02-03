@@ -31,9 +31,15 @@ Iniciei minha trajetória profissional em uma construtora, onde descobri meu int
 
 ## 💼 EXPERIÊNCIA PROFISSIONAL
 
+### **Analista de Vendas Sênior**
+**Vitru Educação** | Maringá, PR  
+*Novembro de 2025 - Fevereiro de 2026*
+
+- Analises de dados do call center
+
 ### **Analista de Dados Pleno**
 **Brainess Company** | Maringá, PR  
-*Maio de 2024 - Presente*
+*Maio de 2024 - Novembro de 2025*
 
 - Desenvolvimento de soluções de BI e automações de dados personalizadas para diversos clientes
 - Criação de dashboards estratégicos em Power BI e Superset com integração de dados de ERPs e CRMs
